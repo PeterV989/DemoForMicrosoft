@@ -1,0 +1,8 @@
+namespace Demo
+{
+    [default_interface]
+    runtimeclass DemoControl : Microsoft.UI.Xaml.Controls.UserControl
+    {
+        DemoControl();
+    }
+}
