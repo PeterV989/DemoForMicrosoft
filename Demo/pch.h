@@ -1,4 +1,6 @@
 #pragma once
+#define _VSDESIGNER_DONT_LOAD_AS_DLL
+
 #include <windows.h>
 #include <unknwn.h>
 #include <restrictederrorinfo.h>
